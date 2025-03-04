@@ -1,6 +1,5 @@
 # Olá, eu sou a Bárbara! 👾
 
-💡 Apaixonada por tecnologia e dados.
 ---
 
 ### 🟣Redes:
